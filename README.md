@@ -35,24 +35,24 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
         <img src="https://github.com/user-attachments/assets/1a62496b-0a6a-45f0-8a45-db68597154cd" alt="Typescript" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/e021ff7f-facb-44d7-bcc5-4cbb953b03ea" alt="React" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/6473f5f1-7d33-43e4-8c12-99f5a861976c" alt="Vue" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/0eb88596-011d-4dd3-9673-717b3e9d989a" alt="Svelte" width="30" height="30"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLXF8VSI5tMlBTfy-9UDvnO6OGMOvgGFz5g&s" alt="Svelte" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/39d475d3-5b91-4d4e-b501-0e3980310baf" alt="Sass" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/20fd2b06-2727-47bb-bdc2-e70ffb94e668" alt="Bootstrap" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/04eda314-d6fe-4f1e-8a79-84595df7008e" alt="Tailwind" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="30"/>
       </div>
     </td>
     <td>
       <p>Back-End</p>
       <div class="back-end-images">
         <img src="https://github.com/user-attachments/assets/49dbe980-cbda-4a89-ac95-8794a330b92e" alt="Python" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/ac0b346a-5486-4d8e-96c6-3e9d9157dfc0" alt="Node.js" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/b737b9e3-c46b-475a-a612-a19acbc334b1" alt="Node.js" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/ebb3d074-73aa-4d59-977e-e66528888e76" alt="Java" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/20fcd934-f0bd-42b3-a2b6-3d1d97cf6448" alt="C" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/bce2bb57-49e0-4140-a570-dd1b76497672" alt="GML" width="30" height="30"/>
         <img src="https://github.com/user-attachments/assets/bd2f39aa-362c-4046-906e-537bd6b1237c" alt="PHP" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/76382230-a9ee-4ca6-a627-7d4b78c894ae" alt="MySQL" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/9382eb68-d34f-48ee-92da-1ce215a753f7" alt="PostgreSQL" width="30" height="30"/>
-        <img src="https://github.com/user-attachments/assets/4c0c2040-6ce4-4b7c-9079-acde6161f244" alt="GIT" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" width="80" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/7030f219-5ada-46c4-822c-d0ee8d2b874c" alt="GIT" width="30" height="30"/>
       </div>
     </td>
   </tr>
