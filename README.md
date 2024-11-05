@@ -74,5 +74,5 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
   </tr>
 </table>
     
-# Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinecoder&show_icons=true&theme=synthwave)
+# 📊 Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvinecoder&show_icons=true&theme=synthwave"/>
