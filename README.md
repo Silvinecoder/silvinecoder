@@ -75,4 +75,4 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
 </table>
     
 # 📊 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=silvinecoder&show_icons=true&theme=synthwave"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinecoder&show_icons=true&theme=synthwave)
