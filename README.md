@@ -75,4 +75,4 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
 </table>
     
 # 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvinecoder&show_icons=true&theme=synthwave&include_all_commits=true&show=prs_merged&hide=contribs)
+<div align="center"> <img src="https://streak-stats.demolab.com?user=silvinecoder&theme=radical&border_radius=3.4&mode=weekly"/></div>
