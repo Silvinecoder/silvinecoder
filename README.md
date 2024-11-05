@@ -55,6 +55,22 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
         <img src="https://github.com/user-attachments/assets/7030f219-5ada-46c4-822c-d0ee8d2b874c" alt="GIT" width="30" height="30"/>
       </div>
     </td>
+    <td>
+      <p>DevOps</p>
+       <div class="devops-images">
+        <img src="https://banner2.cleanpng.com/20180804/ttq/bf041af08718afe10c4a524cfbf8b888.webp" alt="AWS" width="80" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-bjJdK2IAQnNsbvQfeEKWVSfel4RyMTVew&s" alt="Datadog" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="60" height="60"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" width="40" height="40"/>
+        <img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="VMware" width="80" height="60"/>
+      </div>
+    </td>
+    <td>
+      <p>Design</p>
+      <div class="design">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/640px-Logo_Aseprite.svg.png" alt="Aseprite" width="40" height="40">
+    </td>
   </tr>
 </table>
     
