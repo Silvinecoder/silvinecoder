@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cristiana Simoes - Software Engineer/Full-Stack Developer
 
 <!--
 **Silvinecoder/silvinecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🙍‍♀️ About me
+Hello there! Welcome to my GitHub page!
+
+Here’s a bit about me: I’m a software developer whose path has been anything but straightforward. I started out in front-end design, ventured into back-end architecture, and gathered countless insights along the way. I’ve enjoyed the excitement of building mobile apps that bring people together and creating resilient microservices that make the security sector a safer place.
+
+When I'm not solving puzzles at work, you can usually find me immersed in my own projects. Lately, I've been building small video games, and developing an app aimed at helping people with celiac disease quickly find the products they need.
+
+My passion lies in expanding my skills in software architecture and crafting solutions that are as innovative as they are reliable. If you’re curious or just feel like talking tech, feel free to reach out—thanks for visiting!
