@@ -78,7 +78,7 @@ Over the years, I’ve been on a constant journey of discovery, seeking out new 
 Here are some of the awards I've received for my work:
 
 **Ticket Master** - 2024
-<div align="center"> <img src="./ticketMaster.png" alt="ticketMaster"/></div>
+<div align="center"> <img src="./ticketMaster.png" alt="ticketMaster" width="600px"/></div>
     
 # 📊 Github Stats
 <div align="center"> <img src="https://streak-stats.demolab.com?user=silvinecoder&theme=radical&border_radius=3.4&mode=weekly"/></div>
