@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩🏻‍💻 About me
-Hello there! Welcome to my GitHub page!
-
-Here’s a bit about me: I’m a software developer whose path has been anything but straightforward. I started out in front-end design, ventured into back-end architecture, and gathered countless insights along the way. I’ve enjoyed the excitement of building mobile apps that bring people together and creating resilient microservices that make the security sector a safer place.
-
-When I'm not solving puzzles at work, you can usually find me immersed in my own projects. Lately, I've been building small video games, and developing an app aimed at helping people with celiac disease quickly find the products they need.
-
-My passion lies in expanding my skills in software architecture and crafting solutions that are as innovative as they are reliable. If you’re curious or just feel like talking tech, feel free to reach out—thanks for visiting!
-
 # 🛠️ Tech Stack
 Over the years, I’ve been on a constant journey of discovery, seeking out new technologies and adapting my knowledge to keep pace with evolving techniques. Here are some of the languages and frameworks I’ve had the opportunity to work with in my projects:
 <table>
